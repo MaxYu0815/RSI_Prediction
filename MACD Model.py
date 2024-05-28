@@ -73,3 +73,5 @@ all_symbols = df['Symbol'].tolist()
 buyable, sellable = get_tradable_stocks(all_symbols)
 print(f"可買入的股票: {buyable}")
 print(f"可賣出的股票: {sellable}")
+
+# reference:　https://www.sinotrade.com.tw/richclub/Financialfreedom/MACD%E6%8C%87%E6%A8%99%E6%98%AF%E4%BB%80%E9%BA%BC-%E8%82%A1%E7%A5%A8%E8%B2%B7%E8%B3%A3%E9%BB%9E%E6%80%8E%E9%BA%BC%E7%9C%8B--%E6%96%B0%E6%89%8B%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90-651b71353ba60776b8aab818
