@@ -84,3 +84,5 @@ all_symbols = df['Symbol'].tolist()
 buyable, sellable = get_tradable_stocks(all_symbols)
 print(f"可買入的股票: {buyable}")
 print(f"可賣出的股票: {sellable}")
+
+# reference: https://tw.stock.yahoo.com/news/%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90-kdj%E6%8C%87%E6%A8%99-%E8%82%A1%E7%A5%A8%E8%B6%85%E8%B2%B7%E8%B6%85%E8%B3%A3-%E8%82%A1%E5%83%B9%E8%BD%89%E6%8A%98%E9%BB%9E-%E8%B2%B7%E8%B3%A3%E8%A8%8A%E8%99%9F-133421567.html
