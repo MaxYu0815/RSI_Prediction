@@ -41,12 +41,12 @@ def get_stock_data(symbol, period="max"):
     """
     return yf.download(symbol, period=period)
 
-def get_tradable_stocks(symbols, buy_threshold=30, sell_threshold=70):
+def get_tradable_stocks(symbols, buy_threshold=20, sell_threshold=80):
     """
     根據RSI指標篩選可交易的股票
     :param symbols: 股票代碼列表
-    :param buy_threshold: 買入閾值,默認為30
-    :param sell_threshold: 賣出閾值,默認為70
+    :param buy_threshold: 買入閾值,默認為20
+    :param sell_threshold: 賣出閾值,默認為80
     :return: 可買入和可賣出的股票列表
     """
     buyable_stocks = []
