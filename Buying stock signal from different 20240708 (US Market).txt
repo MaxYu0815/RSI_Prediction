@@ -1,0 +1,29 @@
+Buying stock signal from different methods in finance (TICKER from US stock) DATE: FIRST LISTED DATE TILL 2024/07/08. PST +8 
+
+KDJ
+BUYING: ['ALL', 'AMCR', 'AME', 'BBWI', 'BA', 'BKNG', 'BLDR', 'BG', 'KMX', 'CBRE', 'CE', 'CMG', 'STZ', 'CPRT', 'CCI', 'DLR', 'DG', 'DOV', 'DOW', 'DHI', 'DD', 'EMN', 'EG', 'EXPE', 'FFIV', 'FTV', 'GEHC', 'HPE', 'HD', 'HPQ', 'IVZ', 'J', 'LHX', 'LKQ', 'MAS', 'MTCH', 'MHK', 'MSI', 'NDAQ', 'NCLH', 'PH', 'PNR', 'PEP', 'PNW', 'PNC', 'POOL', 'PHM', 'RL', 'RCL', 'SBAC', 'STX', 'SHW', 'SWKS', 'SNA', 'TPR', 'TGT', 'TEL', 'TXT', 'TRV', 'UBER', 'ULTA', 'WRB', 'ZBH']
+
+MACD
+BUYING: ['AMAT', 'AVGO', 'BLDR', 'CE', 'GE', 'DOC', 'HUBB', 'IR', 'KHC', 'MLM', 'MA', 'META', 'MHK', 'NXPI', 'OTIS', 'PPG', 'O', 'ROL', 'SRE', 'STE', 'WEC']
+
+RSI 
+BUYING:  ['BBWI', 'BLDR', 'COO', 'FSLR', 'NKE', 'PCG', 'POOL', 'WBA', 'YUM']
+
+VOL 
+BUYING:  ['GLW', 'META', 'TSLA', 'VTRS', 'WRK']
+
+REPEAT STOCK
+BBWI (KDJ, RSI)
+BLDR (KDJ, RSI, MACD)
+CE (KDJ, MACD)
+DOW (KDJ, RSI)
+MAS (KDJ, RSI)
+META (MACD, VOL)
+MHK (KDJ, MACD)
+MTCH (KDJ, RSI)
+POOL (KDJ, RSI)
+PHM (KDJ, RSI)
+
+Picked Stocks ($600 US DOLLAR): 7/17 sell BLDR Profit: 21.25%
+BLDR $450 ($132.86)
+META $150 ($532.60)

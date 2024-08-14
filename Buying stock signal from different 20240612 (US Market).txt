@@ -1,0 +1,55 @@
+Buying stock signal from different methods in finance (TICKER from US stock) DATE: FIRST LISTED DATE TILL 2024/06/12.
+
+MACD
+(BUYING: 'ADBE', 'AAPL', 'AJG', 'CNP', 'KLAC', 'LH', 'MSFT', 'MPWR', 'PAYX', 'SLB', 'NOW', 'WST' )
+
+(SELLING: 'BK', 'CF', 'CHTR', 'CMCSA', 'DECK', 'FI', 'BEN', 'KIM', 'LMT', 'MDT', 'NWS', 'OTIS', 'O', 'TFX')
+
+KDJ
+(BUYING: 'AAPL', 'BG', 'CPB', 'CBOE', 'CNP', 'ENPH', 'FICO', 'FSLR', 'FMC', 'ILMN', 'K', 'KVUE', 'LW', 'LIN', 'MKC', 'MDLZ', 'PNW', 'PWR', 'ROL', 'SWK', 'ULTA', 'VST')
+
+(SELLING: 'ABT', 'ALGN', 'ALL', 'AAL', 'AMP', 'ACGL', 'AIZ', 'ADSK', 'ADP', 'AVB', 'BK', 'BDX', 'TECH', 'BA', 'BLDR', 'CPT', 'COF', 'CTLT', 'CNC', 'CRL', 'SCHW', 'CB', 'CINF', 'C', 'COO', 'CPRT', 'CPAY', 'CSX', 'DHR', 'DE', 'DAL', 'DFS', 'EBAY', 'LLY', 'EQR', 'ESS', 'ETSY', 'EG', 'EXPD', 'FIS', 'FI', 'F', 'GE', 'GPC', 'GL', 'HIG', 'HCA', 'HPQ', 'ITW', 'JKHY', 'JPM', 'JNPR', 'KR', 'LDOS', 'LKQ', 'L', 'MDT', 'MET', 'MAA', 'MHK', 'MS', 'MOS', 'NEM', 'PAYC', 'PYPL', 'PNR', 'PFG', 'PHM', 'RL', 'RJF', 'RSG', 'ROK', 'RCL', 'SNA', 'LUV', 'STT', 'SYF', 'SYY', 'TPR', 'TXT', 'TRV', 'UDR', 'UNP', 'UAL', 'URI', 'UHS', 'VTR', 'DIS', 'WFC', 'WYNN', 'XEL')
+
+RSI
+(BUYING: 'A', 'ALB', 'ARE', 'ALLE', 'AAL', 'AXP', 'AIG', 'TECH', 'BLDR', 'CPB', 'CAT', 'CBOE', 'CE', 'CNC', 'C', 'CFG', 'CME', 'CMA', 'CPAY', 'CTVA', 'CSGP', 'DAY', 'DE', 'DXCM', 'EPAM', 'EL', 'EXC', 'FFIV', 'FDS', 'FITB', 'FTV', 'GRMN', 'GEHC', 'GPN', 'GS', 'HAS', 'HSIC', 'HSY', 'HRL', 'HBAN', 'IEX', 'INTU', 'IQV', 'KVUE', 'KEY', 'KEYS', 'KR', 'LYV', 'MKTX', 'MLM', 'TAP', 'MS', 'NDAQ', 'NDSN', 'NOC', 'NUE', 'PAYC', 'PEP', 'POOL', 'PFG', 'RJF', 'RF', 'RHI', 'ROK', 'CRM', 'STT', 'STLD', 'SMCI', 'SYY', 'TSLA', 'TFC', 'TSN', 'VICI', 'VMC', 'WAB', 'WAT', 'WEC', 'WFC', 'WY', 'ZBRA', 'ZBH')
+
+(SELLING: 'APD', 'AAPL', 'BBY', 'COR', 'COST', 'LLY', 'EXPE', 'EXPD', 'FSLR', 'HPE', 'ISRG', 'JNPR', 'MCK', 'META', 'NTAP', 'NVDA', 'PM', 'ROST', 'SYK', 'TMUS', 'TJX', 'VRTX')
+
+VOL
+(BUYING: 'AON', 'AAPL', 'C', 'CMA', 'CAG', 'GLW', 'CTVA', 'DTE', 'LLY', 'FITB', 'FMC', 'IT', 'GM', 'HBAN', 'INCY', 'MMC', 'MHK', 'NEE', 'ORCL', 'PARA', 'PNC', 'RF', 'SPG', 'SWKS', 'TRMB', 'URI', 'ZBH')
+
+(SELLING: 'AVY', 'BR', 'CZR', 'CCL', 'CI', 'ELV', 'FICO', 'FOX', 'HAS', 'JCI', 'LULU', 'MRO', 'MRNA', 'NCLH', 'NVDA', 'RL', 'VLTO', 'VRSK', 'XYL')
+
+Repeated Stocks
+Buying:
+AAPL (Apple Inc.): MACD, KDJ, VOL
+C (Citigroup Inc.): RSI, VOL
+CBOE (Cboe Global Markets Inc.): KDJ, RSI
+CMA (Comerica Incorporated): RSI, VOL
+CNP (CenterPoint Energy, Inc.): MACD, KDJ
+CPB (Campbell Soup Company): KDJ, RSI
+CTVA (Corteva, Inc.): RSI, VOL
+FITB (Fifth Third Bancorp): RSI, VOL
+FMC (FMC Corporation): KDJ, VOL
+HBAN (Huntington Bancshares Incorporated): RSI, VOL
+KVUE (Alphabet Inc. Class C): KDJ, RSI
+PAYC (Paycom Software, Inc.): KDJ, RSI
+PFG (Principal Financial Group, Inc.): KDJ, RSI
+RF (Regions Financial Corporation): RSI, VOL
+RJF (Raymond James Financial, Inc.): KDJ, RSI
+ROK (Rockwell Automation, Inc.): KDJ, RSI
+
+Selling:
+BK (The Bank of New York Mellon Corporation): MACD, KDJ
+EXPD (Expeditors International of Washington, Inc.): KDJ, RSI
+FI (First Industrial Realty Trust, Inc.): MACD, KDJ
+FSLR (First Solar, Inc.): KDJ, RSI
+HAS (Hasbro, Inc.): RSI, VOL
+JNPR (Juniper Networks, Inc.): KDJ, RSI
+LLY (Eli Lilly and Company): KDJ, VOL
+MDT (Medtronic plc): MACD, KDJ
+MHK (Mohawk Industries, Inc.): KDJ, VOL
+NVDA (NVIDIA Corporation): RSI, VOL
+RL (Ralph Lauren Corporation): KDJ, VOL
+URI (United Rentals, Inc.): KDJ, VOL
+WFC (Wells Fargo & Company): KDJ, RSI

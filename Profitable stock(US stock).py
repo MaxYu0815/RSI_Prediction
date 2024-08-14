@@ -19,7 +19,7 @@ def get_rsi(data, period=14):
     rsi = 100 - (100 / (1 + rs))
     return pd.DataFrame({'RSI': rsi}, index=data.index)
 
-def get_signal(data, buy_threshold=30, sell_threshold=70):
+def get_signal(data, buy_threshold=20, sell_threshold=80):
     """
     根據RSI指標生成交易信號
     :param data: 包含'Adj Close'列的股票數據DataFrame

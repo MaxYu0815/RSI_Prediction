@@ -1,0 +1,13 @@
+Buying stock signal from different methods in finance (TICKER from US stock) DATE: FIRST LISTED DATE TILL 2024/08/07. PST +8
+
+MACD
+['AXON', 'BAX', 'CEG', 'FICO', 'FIS', 'FOXA', 'FOX', 'IDXX', 'INVH', 'SPG', 'TDG', 'VST', 'ZTS']
+
+RSI
+['ABNB', 'GLW', 'CTRA', 'CRWD', 'DAL', 'F', 'GM', 'HON', 'INTC', 'MAR', 'MRNA', 'NCLH', 'OXY', 'SMCI', 'ULTA', 'UPS', 'WFC']
+
+KDJ
+['AOS', 'ACN', 'ADBE', 'ABNB', 'AKAM', 'ALGN', 'AME', 'APH', 'APTV', 'AVB', 'BBY', 'BIIB', 'BX', 'BXP', 'CDNS', 'CTLT', 'CAT', 'SCHW', 'CFG', 'CL', 'CEG', 'GLW', 'CMI', 'DECK', 'DE', 'DLTR', 'DPZ', 'DOV', 'DOW', 'ECL', 'EW', 'EPAM', 'EG', 'EXPE', 'FRT', 'FDX', 'FIS', 'FI', 'FTV', 'FCX', 'GEV', 'GPN', 'GS', 'HAS', 'HSY', 'HOLX', 'HON', 'HBAN', 'IR', 'INTU', 'IVZ', 'JBL', 'JKHY', 'JPM', 'KIM', 'KKR', 'KR', 'LDOS', 'LEN', 'LLY', 'LYV', 'LKQ', 'LULU', 'LYB', 'MTB', 'META', 'MSFT', 'MSI', 'MSCI', 'NTRS', 'NUE', 'NVR', 'OMC', 'PKG', 'PANW', 'PH', 'PNC', 'PTC', 'PWR', 'QCOM', 'DGX', 'RJF', 'ROK', 'SPGI', 'CRM', 'SOLV', 'STLD', 'SNPS', 'TROW', 'TFC', 'URI', 'VICI', 'GWW', 'DIS', 'WELL', 'WY', 'WYNN', 'XYL']
+
+VOL
+['ABNB', 'GOOGL', 'GOOG', 'AXON', 'BBWI', 'BLDR', 'CPRT', 'CSX', 'ETSY', 'EXPD', 'FTNT', 'FOXA', 'HSIC', 'IDXX', 'IFF', 'K', 'KVUE', 'KEYS', 'KIM', 'TAP', 'MSI', 'PPL', 'RCL', 'SMCI', 'UBER', 'VTR', 'DIS', 'WYNN']

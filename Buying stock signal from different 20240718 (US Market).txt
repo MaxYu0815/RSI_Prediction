@@ -1,0 +1,15 @@
+Buying stock signal from different methods in finance (TICKER from US stock) DATE: FIRST LISTED DATE TILL 2024/07/23. PST +8
+
+KDJ BUYABLE
+['ABT', 'ABBV', 'AES', 'GOOG', 'AEE', 'AEP', 'AON', 'ANET', 'AJG', 'AZO', 'AVY', 'BLK', 'BX', 'BG', 'CDNS', 'CPT', 'CCL', 'CTLT', 'COR', 'CRL', 'CTAS', 'COO', 'COST', 'DVA', 'DECK', 'DTE', 'ETN', 'ECL', 'EW', 'ES', 'EXPD', 'FICO', 'FSLR', 'IT', 'GE', 'GNRC', 'GL', 'GDDY', 'HWM', 'HUBB', 'HBAN', 'IR', 'IFF', 'IQV', 'IRM', 'KR', 'LH', 'LDOS', 'LIN', 'LULU', 'MLM', 'MCK', 'META', 'MTD', 'MSCI', 'NDAQ', 'NTAP', 'NFLX', 'NEE', 'PANW', 'PAYC', 'PSX', 'PPL', 'PLD', 'PEG', 'REG', 'RMD', 'RCL', 'SPG', 'SW', 'SNPS', 'TDG', 'TYL', 'VLTO', 'VRTX', 'VST', 'VMC', 'WAB', 'WBD']
+
+MACD BUYABLE
+['ABT', 'COR', 'CHRW', 'ECL', 'EL', 'FICO', 'GDDY', 'HCA', 'IFF', 'MPC', 'NEE', 'ORLY', 'CRM']
+
+RSI BUYABLE
+['CRWD']
+
+VOL BUYABLE
+['AXP', 'BX', 'CRWD', 'HAL', 'HAS', 'KMI']
+
+Repeat stocks
